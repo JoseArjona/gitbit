@@ -1,0 +1,101 @@
+{
+	"commits_messages": [
+		{
+			"id": 1,
+			"emoji": "👾",
+			"representation": "Iniciando Proyectó / Initiating Project, Primer Commit/ First Commit",
+			"description": "El hola mundo de GITBIT.",
+			"example": "👾 GITBIT"
+		},
+		{
+			"id": 2,
+			"emoji": "✅",
+			"representation": "Hecho/Done, Creado/Create, Completado/ Complete, Terminado/ Finished",
+			"description": "Nueva funcionalidad, código nuevo, componente.",
+			"example": "✅ Modulo de Compra"
+		},
+		{
+			"id": 3,
+			"emoji": "🐞",
+			"representation": "Corrección /Fix, Reparación / Repair, Solución de error/ Fix Bug",
+			"description": "Corrección de un BUG o error.",
+			"example": "🐞 Hover Botón de Compra"
+		},
+		{
+			"id": 4,
+			"emoji": "⚙️",
+			"representation": "Trabajo en procesó, Work in Progress, En procesó/ In Progress, Aun sin terminar/ Not Yet Finished",
+			"description": "Cambio sin errores, pero incompleto.",
+			"example": "⚙️ Modal de confirmación"
+		},
+		{
+			"id": 5,
+			"emoji": "🚧",
+			"representation": "Precaución/ Caution, Por comprobar/ To be Checked",
+			"description": "Cambio sin errores, pero falta comprobar el 100%.",
+			"example": "🚧 Modulo de impresión"
+		},
+		{
+			"id": 6,
+			"emoji": "❌",
+			"representation": "Eliminación de Código / Delete Code, Eliminación de Comentarios / Delete Comments",
+			"description": "Eliminación de contenido relacionado con el código.",
+			"example": "❌ Modulo de visitantes"
+		},
+		{
+			"id": 7,
+			"emoji": "⬇️",
+			"representation": "Instalación de un Paquete/ Add Package, Nueva dependencia / New Dependency",
+			"description": "Nueva dependencia (estética o funcional) al proyecto.",
+			"example": "⬇️ Toastify"
+		},
+		{
+			"id": 8,
+			"emoji": "✖️",
+			"representation": "Eliminación de dependencia / Uninstall Dependency",
+			"description": "Eliminación de una dependencia (estética o funcional).",
+			"example": "✖️ SweetAlert"
+		},
+		{
+			"id": 9,
+			"emoji": "🗑️",
+			"representation": "Eliminación multimedia o de recursos/ Multimedia removal",
+			"description": "Eliminación de un archivo multimedia.",
+			"example": "🗑️ Main Banner"
+		},
+		{
+			"id": 10,
+			"emoji": "💎",
+			"representation": "Refactorización de código/ Code Refactor, Mejora de estructura / Better Structure",
+			"description": "Mejora no funcional del código.",
+			"example": "💎 Modulo de Carrito"
+		},
+		{
+			"id": 11,
+			"emoji": "✨",
+			"representation": "Cambio de Diseño/ Design, Cambio Estético/Esthetic Change, Mejora de UI/ Better UI",
+			"description": "Cambio meramente estético.",
+			"example": "✨ Colores en Títulos"
+		},
+		{
+			"id": 12,
+			"emoji": "✍️",
+			"representation": "Mejora de documentación/ Better Docs, Mejoras ortográficas o semánticas/ Spelling or semantic improvements, Añadido de contenido textual/ Add Text Content",
+			"description": "Cambio de contexto escrito.",
+			"example": "✍️ Readme"
+		},
+		{
+			"id": 13,
+			"emoji": "🪄",
+			"representation": "Mejora en el Formato del Código/ Better Code Formatting",
+			"description": "Formateo en el código.",
+			"example": "🪄 En Modulo de Exportación"
+		},
+		{
+			"id": 14,
+			"representation": "Desplegar/Deploy, Implementación/ Implementation",
+			"description": "Cambios relacionados con el Deploy del proyecto.",
+			"example": "🚀 Vercel Config"
+		}
+	]
+}
